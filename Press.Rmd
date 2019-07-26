@@ -2,7 +2,11 @@
 title: "Titulo de la presentacion"
 author: "rr@l"
 date: "21/7/2019"
-output: beamer_presentation
+output: 
+    beamer_presentation:
+        theme: "CambridgeUS "
+        colortheme: "lily"
+        fonttheme: "structurebold"
 ---
 
 ```{r setup, include=FALSE}
