@@ -7,6 +7,9 @@ output:
         theme: "CambridgeUS "
         colortheme: "lily"
         fonttheme: "structurebold"
+        # number_sections: FALSE
+# Cambiando dimension de diapo, 16:9, por defecto es 4:3
+classoption: "aspectratio=169"
 ---
 
 ```{r setup, include=FALSE}
